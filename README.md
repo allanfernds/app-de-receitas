@@ -2,6 +2,7 @@
 # App de Receitas
 
 Um aplicativo de receitas feito em ReactJS.
+Link: https://app-de-receitas-rho.vercel.app/
 
 ## Imagens
 
