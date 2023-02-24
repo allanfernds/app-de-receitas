@@ -10,7 +10,7 @@ Link: https://app-de-receitas-rho.vercel.app/
 
 ## Descrição
 
-O seu aplicativo permite que os usuários pesquisem receitas por vários modos, como ingredientes, nome e primeira letra. Ele também inclui um sistema de login básico e um sistema para armazenar receitas favoritas usando o local storage. Além disso, o aplicativo inclui receitas de preparo de bebidas e sugestões de pratos para acompanhar a bebida selecionada. Também há uma página de receita em progresso, onde o usuário pode marcar os passos concluídos e, ao finalizar, adicioná-la à lista de receitas concluídas. Os usuários também podem compartilhar receitas com outras pessoas por meio de uma URL gerada pelo aplicativo.
+O App permite que os usuários pesquisem receitas por vários modos, como ingredientes, nome e primeira letra. Ele também inclui um sistema de login básico e um sistema para armazenar receitas favoritas usando o local storage. Além disso, o aplicativo inclui receitas de preparo de bebidas e sugestões de pratos para acompanhar a bebida selecionada. Também há uma página de receita em progresso, onde o usuário pode marcar os passos concluídos e, ao finalizar, adicioná-la à lista de receitas concluídas. Os usuários também podem compartilhar receitas com outras pessoas por meio de uma URL gerada pelo aplicativo.
 
 ## Tecnologias Utilizadas
 
